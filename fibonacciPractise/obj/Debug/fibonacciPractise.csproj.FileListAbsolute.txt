@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\fibonacciPractise\fibonacciPractise\bin\Debug\fibonacciPractise.exe.config
+C:\Users\Admin\source\repos\fibonacciPractise\fibonacciPractise\bin\Debug\fibonacciPractise.exe
+C:\Users\Admin\source\repos\fibonacciPractise\fibonacciPractise\bin\Debug\fibonacciPractise.pdb
+C:\Users\Admin\source\repos\fibonacciPractise\fibonacciPractise\obj\Debug\fibonacciPractise.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\fibonacciPractise\fibonacciPractise\obj\Debug\fibonacciPractise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\fibonacciPractise\fibonacciPractise\obj\Debug\fibonacciPractise.exe
+C:\Users\Admin\source\repos\fibonacciPractise\fibonacciPractise\obj\Debug\fibonacciPractise.pdb
